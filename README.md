@@ -2,7 +2,7 @@
 Implementing Array as an Abstract Data Type with header in C Language.
 
 */ 
-the header "TDA_VECTOR.h" allow:
+the header "TDA_VECTOR.h" allow: \n
 -Load a vector of X integers.
 -Print on the screen a vector passed as a parameter.
 -Receive a vector of N unordered natural numbers (may contain
