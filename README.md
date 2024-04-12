@@ -1,8 +1,8 @@
-# ADT-HEADER-in-C
-Implementing Array as an Abstract Data Type with header in C Language.
+# **ADT-HEADER-in-C**
+**Implementing Array as an Abstract Data Type with header in C Language.**
 
 */     
-the header "TDA_VECTOR.h" allow:    
+**_the header "TDA_VECTOR.h" allow:_**    
 -Load a vector of X integers.    
 -Print on the screen a vector passed as a parameter.    
 -Receive a vector of N unordered natural numbers (may contain    
@@ -12,7 +12,7 @@ repeated numbers) and return the same ordered from major to minor.
 -Receive a vector and print the average of the elements found in the even positions.    
 -Receive a vector and print the average of the elements found in the odd positions.    
     
-the header "TDA_MATEMATICA.h" allow:    
+**_the header "TDA_MATEMATICA.h" allow:_**    
 -Determine if two numbers are equal.    
 -Determine which of two numbers is major and find the square of it.    
 -Obtain the factorial of a number.    
@@ -24,6 +24,5 @@ the header "TDA_MATEMATICA.h" allow:
     
 the others files are examples of exercises.    
 
-*/
 
 
